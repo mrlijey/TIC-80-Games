@@ -4,7 +4,7 @@
 
 `main.lua` is a small arcade game for TIC-80. Move the ship with the arrow keys
 or `WASD`, collect the bright signal shards, and avoid the drifting rocks. On a
-game-over screen, press `Z` or the gamepad A button to restart.
+game-over screen, press `Z` or the gamepad A button to restart...
 
 ### Run
 
